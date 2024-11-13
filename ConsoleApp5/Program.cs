@@ -10,5 +10,10 @@
             // foo
             Console.WriteLine("foo");
         }
+
+        public static void Sum(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
