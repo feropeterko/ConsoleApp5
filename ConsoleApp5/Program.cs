@@ -15,5 +15,10 @@
         {
             return a + b;
         }
+
+        public static void Sub(int a, int b)
+        {
+            return a - b;
+        }
     }
 }
