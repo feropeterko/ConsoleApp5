@@ -8,7 +8,7 @@
 
             Console.WriteLine("neco noveho");
             // foo
-            Console.WriteLine("ahoj");
+            Console.WriteLine("foo");
         }
     }
 }
