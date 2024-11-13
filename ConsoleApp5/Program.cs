@@ -7,6 +7,7 @@
             Console.WriteLine("Hello, World!");
 
             Console.WriteLine("neco noveho");
+            Console.WriteLine("xxx");
         }
     }
 }
